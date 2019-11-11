@@ -1,1 +1,0 @@
-# IRE-major-Project---SemEval-Rumour-Detection
