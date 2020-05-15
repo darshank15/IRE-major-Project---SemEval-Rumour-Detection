@@ -1,0 +1,5 @@
+11. SemEval19: Rumor Detection 
+16. SemEval19: OffensEval
+13. CL-AFF Shared Task: In pursuit of happiness
+4.  Hashtags generation
+15. SemEval19: haTEval
